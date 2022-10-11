@@ -1,1 +1,1 @@
-{"SendMessage":"03","MyMessage":" Tim está off até resolvermos problema "}
+{"SendMessage":"03","MyMessage":" O problema da Tim foi resolvido junto com o problema da operadora vivo "}
