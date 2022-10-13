@@ -1,1 +1,1 @@
-{"SendMessage":"03","MyMessage":" O problema da Tim foi resolvido junto com o problema da operadora vivo "}
+{"SendMessage":"03","MyMessage":" Realizem a troca do protocolo de APN para poderem usar o aplicativo na operadora vivo como foi mandado para todos pelo WhatsApp "}
