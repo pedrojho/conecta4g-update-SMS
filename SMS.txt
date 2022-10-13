@@ -1,1 +1,1 @@
-{"SendMessage":"03","MyMessage":" Realizem a troca do protocolo de APN para poderem usar o aplicativo na operadora vivo como foi mandado para todos pelo WhatsApp "}
+{"SendMessage":"04","MyMessage":" Realizem a troca do protocolo de APN para poderem usar o aplicativo na operadora vivo como foi mandado para todos pelo WhatsApp "}
