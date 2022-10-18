@@ -1,1 +1,1 @@
-{"SendMessage":"05","MyMessage":" Qualquer problema entre em contato conosco pelo WhatsApp, ou com o seu revendedor responsável. "}
+{"SendMessage":"05","MyMessage":" Foram corrigido e removidos alguns modos que estavam apresentando falha na entrega da internet para a operadora TIM \n\n\ ATUALIZE SEU APP "}
