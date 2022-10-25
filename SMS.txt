@@ -1,1 +1,1 @@
-{"SendMessage":"06","MyMessage":" Foram corrigido e removidos alguns modos que estavam apresentando falha na entrega da internet para a operadora TIM. ATUALIZE SEU APP "}
+{"SendMessage":"07","MyMessage":" Atualização de otimização de servidor, recomendável a realização da atualização. "}
