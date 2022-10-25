@@ -1,1 +1,1 @@
-{"SendMessage":"13","MyMessage":"Atualização de otimização de servidor recomendável a realização da atualização"}
+{"SendMessage":"13","MyMessage":"Atualização de otimização de servidor, recomendável a realização da atualização"}
