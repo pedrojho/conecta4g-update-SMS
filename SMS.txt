@@ -1,1 +1,1 @@
-{"SendMessage":"15","MyMessage":"Problemas em atualizar, protocolo de IPV4 ou dúvidas entrem em contato"}
+{"SendMessage":"16","MyMessage":"Novo aplicativo disponível, instale e comece usar mais rápido possível"}
