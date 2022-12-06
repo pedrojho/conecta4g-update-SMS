@@ -1,1 +1,1 @@
-{"SendMessage":"16","MyMessage":"Novo aplicativo disponível, instale e comece usar mais rápido possível"}
+{"SendMessage":"17","MyMessage":"Problemas ou dúvidas entre em contato"}
