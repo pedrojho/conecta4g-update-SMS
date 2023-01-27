@@ -1,1 +1,1 @@
-{"SendMessage":"17","MyMessage":"Problemas ou dúvidas entre em contato"}
+{"SendMessage":"18","MyMessage":"Atualize o seu aplicativo para a versão da Google Play disponível todas as operadoras"}
